@@ -56,7 +56,7 @@ This repository contains solutions for assignments related to cloud-based data a
 ## Setup and Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/manish-kotra/Azure-Projects.git]
+   git clone https://github.com/manish-kotra/Azure-Projects.git
    cd Azure-Projects
    ```
 2. Open relevant files:
